@@ -1,0 +1,2 @@
+﻿refund_id,subscription_id,region,currency,period,local_amount,refund_state,refunded_at,fx_version
+REF-0001,SUB-00158,DE,EUR,2026-08,18.99,paid,2026-08-15,FX-DE-1

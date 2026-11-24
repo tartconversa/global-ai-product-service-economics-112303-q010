@@ -1,0 +1,17 @@
+﻿supplier_ref,region,contract_version,valid_from,valid_to,service_type,unit_cost_local,currency,capacity_hours,supplier_state
+SP-US-1,US,CT-V1,2026-07-01,2026-09-30,support-call,50,USD,60,active
+SP-US-1,US,CT-V2,2026-10-01,,support-call,50,USD,60,active
+SP-US-2,US,CT-V1,2026-07-01,2026-09-30,device-replacement,55,USD,60,active
+SP-US-2,US,CT-V2,2026-10-01,,device-replacement,55,USD,60,active
+SP-US-3,US,CT-V1,2026-07-01,2026-09-30,health-review,60,USD,60,active
+SP-US-3,US,CT-V2,2026-10-01,,health-review,60,USD,60,active
+SP-DE-1,DE,CT-V1,2026-07-01,,support-call,47,EUR,26,active
+SP-DE-2,DE,CT-V1,2026-07-01,,device-replacement,52,EUR,26,active
+SP-DE-3,DE,CT-V1,2026-07-01,,health-review,57,EUR,26,active
+SP-JP-1,JP,CT-V1,2026-07-01,,support-call,5205,JPY,40,active
+SP-JP-2,JP,CT-V1,2026-07-01,2026-10-31,device-replacement,5210,JPY,40,active
+SP-JP-2,JP,CT-V2,2026-11-01,,device-replacement,5210,JPY,40,suspended
+SP-JP-3,JP,CT-V1,2026-07-01,,health-review,5215,JPY,40,active
+SP-AU-1,AU,CT-V1,2026-07-01,,support-call,65,AUD,60,active
+SP-AU-2,AU,CT-V1,2026-07-01,,device-replacement,70,AUD,60,active
+SP-AU-3,AU,CT-V1,2026-07-01,,health-review,75,AUD,60,active

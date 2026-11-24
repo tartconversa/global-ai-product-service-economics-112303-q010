@@ -5,9 +5,11 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "global_ai_product_service_economics"
 version = "0.1.0"
-description = "本地合成零售运营资料"
+description = "本地合成零售运营资料与智能宠物产品多地区服务经营分析"
 requires-python = ">=3.11,<3.15"
 dependencies = []
 
 [tool.setuptools.packages.find]
 where = ["src"]
+include = ["pet_service_region_ops*", "retail_content_correction_propagation*",
+           "global_ai_product_service_economics*"]

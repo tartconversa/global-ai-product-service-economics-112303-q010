@@ -1,0 +1,6 @@
+﻿region,currency,fx_version,rate_to_usd,valid_from,valid_to,supersedes
+US,USD,FX-US-1,1.0000,2026-07-01,2026-11-01,
+US,USD,FX-US-2,1.0200,2026-11-01,,FX-US-1
+DE,EUR,FX-DE-1,1.0900,2026-07-01,,
+JP,JPY,FX-JP-1,0.0067,2026-07-01,,
+AU,AUD,FX-AU-1,0.6600,2026-07-01,,
